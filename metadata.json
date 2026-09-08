@@ -1,0 +1,6 @@
+{
+  "name": "DeutschBuddy - German Slang Digital Companion",
+  "description": "Digital German friend for practicing Umgangssprache with natural voice conversations, slang insights, grammar correction, and continuous memory.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
